@@ -52,4 +52,4 @@ PHP を用いてお問い合わせフォームを実装しました．
 * E-mmail: murakami.shushushun@gmail.com
 
 
-"My Portfolio" is Confidential.
+'My Portfolio' is Confidential.
