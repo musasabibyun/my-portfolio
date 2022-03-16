@@ -14,8 +14,11 @@ CSS フレームワークに Bootstrap を，
 
 JavaScript のライブラリとして jQuery を使用しています．
 
+また， jquery.easing を使用してリンク移動の動作を滑らかにしています．
+
 * Bootstrap 4.3.1
 * jQuery 3.3.1
+* jquery.easing 1.4.2
 
 ## Home -ホーム部分
 
