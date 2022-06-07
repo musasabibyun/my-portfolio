@@ -47,12 +47,5 @@ PHP を用いてお問い合わせフォームを実装しました．
 
 さらに 「送信」 ボタンを押すと，私のメールアドレス宛にお問い合わせ内容が送信されます．
 
-# Author
 
-作成情報を列挙する
-
-* 作成者: 村上 俊太郎
-* E-mmail: murakami.shushushun@gmail.com
-
-
-'My Portfolio' is Confidential.
+**'My Portfolio'** is Confidential.
